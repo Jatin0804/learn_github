@@ -25,4 +25,17 @@
 ###
 - git remote add origin https://github.com/Jatin0804/learn_github.git = to add the folder to remote github
 - git branch -M main = to change the branch to main
-- git push -u origin main = to upload the local repository to remote 
+- git push -u origin main = to upload the local repository to remote and update the main branch
+
+###
+- touch secrets.txt
+- touch .gitignore
+- git add .
+- git status
+- git rm --cached -r . = rm is for remove
+-r for recursive
+. for all files
+- git status
+- code .gitignore
+- git add .
+- git commit -m "Added .gitignore"
