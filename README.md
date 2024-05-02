@@ -55,3 +55,4 @@
 - code chapter4.txt
 - git add .
 - git commit -m "Changes in main "
+- git merge new-plot
